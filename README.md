@@ -6,4 +6,4 @@
 - 🌱 I spend most of my time, To research how to make learning to code fun and make Complex concepts easy to understand. 
 Thanks
 
-- 📫 How to reach me ...? "mehedi.hasan.app.dev@gmail.com" is my email.
+- 📫 How to reach me ...? "hello.mhasan@outlook.com or mehedi.hasan.app.dev@gmail.com" is my email.
