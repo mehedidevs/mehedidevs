@@ -14,7 +14,8 @@
 
 - 💬 Ask me about **Java,kotlin,dart,android**
 
-- 📫 How to reach me **hello.mhasan@outlook.com**
+- 📫 How to reach me **hello.mhasan@outlook.com or mehedi.hasan.app.dev@gmail.com
+**
 
 - ⚡ Fun fact **My colleagues says I am funny :)**
 
