@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Md Mehedi Hasan</h1>
+<h1 align="center">Hi, I'm Md Mehedi Hasan</h1>
 <h3 align="center">A passionate app developer from Bangladesh</h3>
 
 
