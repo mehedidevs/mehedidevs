@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Md Mehedi Hasan</h1>
-<h3 align="center">A passionate app developer from Bangladesh</h3>
+<h3 align="center">A Passionate App Developer from Bangladesh</h3>
 
 
 - 🔭 I’m currently working on **Famapay (Fintech)**
