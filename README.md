@@ -9,7 +9,7 @@
 
 - 👯 I’m Mentoring on **Creative IT Institute**
 
-- 💬 Ask me about **Java,kotlin,dart,android**
+- 💬 Ask me about **Java, Kotlin, Dart, Android**
 
 - 📫 How to reach me **mehedi.hasan.app.dev@gmail.com**
 
