@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **Beeda (Super App)**
 
 - 🌱 I’m currently learning **Spring Boot with java**
-- - 👯 I’m Mentoring on **Easital Technologies Ltd******
+- 👯 I’m Mentoring on **Easital Technologies Ltd******
 
 - 👯 I’m Mentoring on **Creative IT Institute**
 
