@@ -3,9 +3,10 @@
 <h3 align="center">A Passionate App Developer from Bangladesh</h3>
 
 
-- 🔭 I’m currently working on **Famapay (Fintech)**
+- 🔭 I’m currently working on **Beeda (Super App)**
 
 - 🌱 I’m currently learning **Spring Boot with java**
+- - 👯 I’m Mentoring on **Easital Technologies Ltd******
 
 - 👯 I’m Mentoring on **Creative IT Institute**
 
