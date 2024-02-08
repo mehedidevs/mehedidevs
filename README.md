@@ -5,14 +5,15 @@
 
 - 🔭 I’m currently working on **Beeda (Super App)**
 
-- 🌱 I’m currently learning **Spring Boot with java**
-- 👯 I’m Mentoring on **Easital Technologies Ltd******
+- 👯 I’m Sr. Software Engineer (Android) on **Easital Technologies Ltd******
 
 - 👯 I’m Mentoring on **Creative IT Institute**
 
 - 💬 Ask me about **Java, Kotlin, Dart, Android**
 
 - 📫 How to reach me **mehedi.hasan.app.dev@gmail.com**
+- 
+- 🌱 I’m currently learning **Spring Boot with java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
