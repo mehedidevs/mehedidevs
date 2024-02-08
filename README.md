@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Md Mehedi Hasan</h1>
 <h3 align="center">A Passionate App Developer from Bangladesh</h3>
 
-- 👯 I’m Sr. Software Engineer (Android) on **Easital Technologies Ltd******
+- 👯 I’m Sr. Software Engineer (Android) on **Easital Technologies Ltd**
   
 - 🔭 I’m currently working on **Beeda (Super App)**
 
