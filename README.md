@@ -12,7 +12,9 @@
 
 - 📫 How to reach me **mehedi.hasan.app.dev@gmail.com**
   
-- 🌱 I’m currently learning **Spring Boot with java**
+- 👀 Currently attend the program **Android Kotlin Developer Nanodegree Graduate**
+  
+- 🌱 Wrokable Knowledge of SpringBoot with Java
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
