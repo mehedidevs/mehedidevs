@@ -7,14 +7,14 @@
 - 🧑‍💻 App link: [Google Play](https://play.google.com/store/apps/details?id=com.beeda.user)
 
 - 👯 I’m Mentoring on **Creative IT Institute**
-
-- 💬 Ask me about **Java, Kotlin, Dart, Android**
-
-- 📫 How to reach me **mehedi.hasan.app.dev@gmail.com**
   
 - 👀 Currently attend the program **Android Kotlin Developer Nanodegree Graduate**
   
 - 🌱 Wrokable Knowledge of SpringBoot with Java
+  
+- - 💬 Ask me about **Java, Kotlin, Dart, Android**
+
+- 📫 How to reach me **mehedi.hasan.app.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
