@@ -12,7 +12,7 @@
   
 - 🌱 Wrokable Knowledge of SpringBoot with Java
   
-- - 💬 Ask me about **Java, Kotlin, Dart, Android**
+-  💬 Ask me about **Java, Kotlin, Dart, Android**
 
 - 📫 How to reach me **mehedi.hasan.app.dev@gmail.com**
 
